@@ -209,6 +209,46 @@ ul.nav.navbar {
 }
 /*-- //social-icons --*/
 
+/* Inicio message-p */
+.message-p {
+	background: #f5f5f5;
+}
+.message-p .message-header {
+	background: #dcdfe3;
+	padding: 3px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.message-p h5 {
+	font-weight: 200;
+	margin-top: 10px;
+}
+.message-p p {
+	margin-left: 10px;
+}
+.message-p .small {
+	font-size: 11px;
+	color: #aab2bd;
+	margin-top: -10px;
+}
+.message-p name {
+	color: #ed5565;
+	font-weight: 700;
+}
+.message-p .message {
+	font-size: 12px;
+}
+.message-p .form-inline {
+	margin-left: 10px;
+}
+.message-p .form-inline .form-group {
+	width: 80%;
+}
+.message-p .form-inline .form-control {
+	width: 100%
+}
+/* Fin message-p */
+
 /*--COMIENZA PRODUCT BOX--*/
 .product-box-top {
     padding: 4em 0;
@@ -380,10 +420,11 @@ p{
 /*-- features --*/
 h3.agileits-title,h2.agileits-title{
     /*#FF5722*/
+    margin-left: 0.9em;
     text-align: center;
     font-size: 4em;
     color: #3376FF;
-    margin-bottom: 0.6em;
+    margin-bottom: 0.2em;
     font-weight: 300;
     letter-spacing: 2px;
 } 
